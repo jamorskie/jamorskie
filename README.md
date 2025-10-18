@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @jamorskie
+- 👋 Hi, I’m Liamme
 - 👀 I’m interested in music
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ahsjka sikret
-- 📫 How to reach me chat m aq sa fb
+- 📫 How to reach me: chat m aq sa fb
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: kaya q mag umoutfit kahit mainit
+- ⚡ Fun fact: 
 
 <!---
 jamorskie/jamorskie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
